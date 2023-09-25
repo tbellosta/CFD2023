@@ -1,5 +1,5 @@
 # CFD2023
-Repository for the 2021 course of Computational Fluid Dynamics
+Repository for the 2023 course of Computational Fluid Dynamics
 ## 
 0. [Oblique Shock](OBLIQUE_SHOCK)
 1. [Diamond Airfoil](DIAMOND)
