@@ -3,7 +3,7 @@ Repository for the 2023 course of Computational Fluid Dynamics
 ## 
 0. [Oblique Shock](OBLIQUE_SHOCK)
 1. [Diamond Airfoil](DIAMOND)
-2. [Laminar Boundary Layer](LAMINAR_FLAT_PLATE)
+2. [Laminar Boundary Layer](LAMINAR_FLATPLATE)
 
 
 ## SOFTWARE
