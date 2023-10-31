@@ -6,6 +6,8 @@ Repository for the 2023 course of Computational Fluid Dynamics
 2. [Laminar Boundary Layer](LAMINAR_FLATPLATE)
 3. [Turbulent Boundary Layer](TURBULENT_FLATPLATE)
 4. [Transonic airfoil](RAE2822)
+5. [Oscillating airfoil](PITCHING)
+5. [Backward Facing Step](BFS)
 
 
 ## SOFTWARE
